@@ -1,6 +1,6 @@
 # Inteligência Artificial
 
-Conteúdo abordado na unidade curricular Inteligência Artificial no ano letivo 2025/2026.
+Conteúdo abordado na unidade curricular **Inteligência Artificial** no ano letivo 2025/2026.
 
 ## Conteúdo
 
